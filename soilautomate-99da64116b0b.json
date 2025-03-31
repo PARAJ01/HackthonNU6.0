@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "soilautomate",
+  "private_key_id": "99da64116b0b11a16a24c98865fd8d2345a6d856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2bQWVEYk7bE1C\n4mGLDvu9ZCwqSe9S9AUc5nE0FxiVELDcOiJAeJkkDLSsNBhke5npQU7B9s54Y0yf\nOJ3PNUphJ1oHVcVnkNZeW1e/Jvzo/zp5zTjfRj3E+cYYR3iFVJHyWJ5cRgif3MjM\nimoFjIfcxOCY2PcWstaVaJiOktS9eRkQEjxSrp6VKrVdFhDeRBjFg4PaPEZuR6eV\nfe97Ldyjny0/7rquQRLeqQsfsHIB3TyfbsAHhbzjYSpyJmFCUt5a5qVJSNvHAlE+\nK6v2+7Z7M2i9wpj3mT76AMxPcniiR8+YyuYRvlRLEqtWAlZb4JvI+sxn1dfGvObt\nihmPanvHAgMBAAECggEAVmfeIITNVOWP1NHINOb0avjjCGa7ojVtpIor7WnRHW3p\n723joljc5FvWSchlE1cOCBMEXE/r7M7P0IyvBqGtqMXMWTQRi+Po/YlTTvmHCk81\nodKIEQ1CnaVW5FIZ7kEn3buGyprrY9jeDS+0VwuAoJtp7Eu8ATbU97CyrbkzZciD\nxp766UWKbIrP69xyj4LEYJVcmI9WL1HiAB9jCnu1rysqY+ijFokZAJRIxA6C6I6W\nzlQeV9Cmu/E3JJB5hLTmB5mNvDKPYCen4ycMuQC+hRCWJPhad2A2qGeHE2CVp1/b\nv3BMphPLkhqnu4CK499CQuhj4AcE1HnMonhVCup2QQKBgQDvKbH+0ipfWXTk7w1T\nC/UfDXqCodK1LI+gH5DtR8J19FMHjYsA9Gokmf6beKkjHLO6Mcz+WdLgSyosxas0\nd9e1dhh2SfCKbiXwzd3mwbD64KBDJGLXI1I8xOPWaF6upWPLfSbL8YjWKSYdWC2f\nfro1ck17CIXsfbSh2r4TjAC0QQKBgQDDRMknjOy00ZGuHdydzpHkirDppqi94UxY\nWPA+hDvzUn/Bs3g9cA9m5FFKjOdgQSyZYFNu4x5rQlObfZmX6xUPRCLdih1/15Ff\nsaQwFLdpc+D+MLPtQqEbad0aoJ8kkcMBnnm9kPzLDrXyxeKMsYOGKImtDy091G0z\nOpB75woOBwKBgArpThOgJwq+nBSty1/UldRa2xIGrARUCiF2DzikI30aLoeTr5nV\njNoqpHEXajAN6S0/hGi+VF6jT0NHqW31YcQHpUoQSYcnS1fXLJ6Qi7CGewlVKaVD\nGUdofDSWAmvZY9ou1YxMcr/ClNiV4075iylRE7PfSazmd01DG5TsuEOBAoGAabvy\nbE8b0WF1T+HtlynGyAjteOd8kazQaTpnhIKX786pTRrALgxi2qUg+4xGsVE5NCf7\npZyn2Q6GNTkSlTd/JNARTQK/rHzuw/Ft5XciRaCwoROAKiYdFLoDNqro4aVoAZVt\neF9s8wsZLMdIQETS4i9LNYF1Tvia1NWObPkS8bsCgYAwJoBtUTpGjXZIAdwIr3oX\nIlbKAy6FKYG3AbJAV1zNO6D/JliZaFzUF/mRXuEpy0og13I65GcPfso3ghYsZD3d\nQTSI7ejaZkhQOrNA2sQkFFsN5PyEAVDIkT95T5EnyRa9ZtMOrmIgF75Qh7VrMszS\nX2CxsnHmXQjpS/hKQJbVAA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-to-sheets@soilautomate.iam.gserviceaccount.com",
+  "client_id": "104020698755793725616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-to-sheets%40soilautomate.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
